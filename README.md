@@ -1,4 +1,4 @@
-# Neural Network Analysis of the psMNIST Dataset
+# RNN Analysis of the psMNIST Dataset
 
 This repository contains the implementation and analysis of various Recurrent Neural Network (RNN) architectures, including simple RNN (sRNN), Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU), and Legendre Memory Unit (LMU) hybrids, on the permuted sequential MNIST (psMNIST) dataset. The study aims to evaluate the performance, interpretability, and computational efficiency of these architectures, providing insights into their capabilities and limitations when handling complex sequential data. 
 
